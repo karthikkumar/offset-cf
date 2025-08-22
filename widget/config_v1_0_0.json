@@ -1,0 +1,9 @@
+{
+  "placement": "#main-cart-footer > div > div > div > div.cart__ctas",
+  "verbiage": "to offset my carbon footprint",
+    "theme": {
+      "accent": "#0f766e"
+    },
+    "insert_position": "before", 
+    "is_enabled": true
+}
